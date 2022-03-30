@@ -145,7 +145,7 @@ Feature: Sprint2 features
     Then validate room's number with the database
 
 
-  @CreateTestItem @AdminUI @bulentbey
+  @CreateTestItem @AdminUI @bulentbey @SmokeJenkins
   Scenario: US17 Admin can create new test items
     Given user sign-in as admin
     And user selects test item from items-titles dropdown

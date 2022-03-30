@@ -54,3 +54,5 @@ Registrant{firstName='null', lastName='null', ssn='null', login='null', langKey=
 Registrant{firstName='null', lastName='null', ssn='null', login='null', langKey='null', password='null', email='null', id=0}
 Registrant{firstName='null', lastName='null', ssn='null', login='null', langKey='null', password='null', email='null', id=0}
 Registrant{firstName='null', lastName='null', ssn='null', login='null', langKey='null', password='null', email='null', id=0}
+Registrant{firstName='Christian', lastName='Schumm', ssn='815-04-3973', login='marcellus.white', langKey='null', password='n@XWy1xP122', email='christen.okon@hotmail.com', id=0}
+Registrant{firstName='Oma', lastName='Fisher', ssn='770-97-4115', login='marg.bode', langKey='null', password='bYK8j$Wv5%R', email='lilla.beahan@gmail.com', id=0}

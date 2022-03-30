@@ -12,7 +12,7 @@ Feature: demo
       |123-$5-6789 |
 
   @UIRegistration
-  @registration_all_valid
+  @registration_all_valid @SmokeJenkins
 Scenario: TC08 registering with valid credentials
 Given user enters ssn number
 And user enters firstname
