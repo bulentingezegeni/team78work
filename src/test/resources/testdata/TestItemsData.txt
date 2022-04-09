@@ -24,3 +24,5 @@ Stefanxytest,mg/dL,89,50,120,null
 Mitchxtest,mg/dL,73,54,128,26-03-2022
 Eunxytest,mg/dL,65,50,120,null
 Lowellxtest,mg/dL,37,61,72,30-03-2022
+Joeyxtest,mg/dL,79,58,72,09-04-2022
+Lareextest,mg/dL,80,52,126,09-04-2022
